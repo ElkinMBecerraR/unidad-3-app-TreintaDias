@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TreintaDias</string>
+    <string name="paisaje1">Playa New Dor </string>
+    <string name="descripcion1">de luz da la paz en la sintonia del mundo entero</string>
+    <string name="paisaje2">Fuente de Luz</string>
+    <string name="descripcion2">Playa New Dor</string>
+    <string name="paisaje3">Rancho de explendor</string>
+    <string name="descripcion3">Playa New Dor</string>
+    <string name="paisaje4">La vida de los Dioses</string>
+    <string name="descripcion4">Playa New Dor</string>
+    <string name="paisaje5">Beeak</string>
+    <string name="descripcion5">Playa New Dor</string>
+    <string name="paisaje6">Torque day nuck</string>
+    <string name="descripcion6">Playa New Dor</string>
+</resources>
